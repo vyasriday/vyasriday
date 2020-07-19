@@ -1,6 +1,6 @@
 ### Hi there, I am Hridayesh, a Software Engineer 👋
 
-#### [Website](https://www.hridayeshsharma.com) 
+#### [Website](https://hridayeshsharma.com/) 
 #### [Mail](mailto:dev.hridayesh@gmail.com)
 
 
