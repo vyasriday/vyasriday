@@ -1,7 +1,8 @@
 ### Hi there, I am Hridayesh, a Software Engineer 👋
  [Website](https://hridayeshsharma.com/) •
  [Mail](mailto:dev.hridayesh@gmail.com) •
- [Blog](https://dev.to/vyasriday) •
+ [Personal Blog](https://dev.to/vyasriday) •
+ [Professional Blog](https://www.loginradius.com/blog/async/author/hridayesh-sharma/) •
  [Twitter](https://twitter.com/vyasriday) •
  [StackOverflow](https://stackoverflow.com/users/6235787/vyasriday?tab=profile) 
 
